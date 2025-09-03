@@ -1,13 +1,29 @@
-# Sample Hardhat Project
+##Demo: https://www.youtube.com/watch?v=Ql54Ty9i4lw&t=28s
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+Mosaic — Decentralized Creative Collaboration Platform
 
-Try running some of the following tasks:
+Problem Statement: Artists often struggle with credit, copyright, and fair revenue sharing in collaborations.
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+Your Role: Blockchain backend + smart contract development.
+
+Key Technologies: Solidity, NFTs, Flask, Jinja, JavaScript, Ganache (local Ethereum testnet).
+
+Workflow:
+
+Smart Contracts → Define ownership rules, mint NFTs, distribute royalties.
+
+Frontend + Backend → Flask/Jinja web app with wallet integration.
+
+Blockchain Layer → Deployed on Ganache for dev/testing.
+
+IP Ownership → Artists upload work → NFT minted → revenue split automated.
+
+Challenges & Solutions:
+
+Learning Solidity + debugging smart contracts → used Truffle/Ganache for rapid iteration.
+
+Handling fractional ownership → designed contract functions for multiple collaborators.
+
+UX issue with blockchain wallets → provided clear integration steps.
+
+Impact: Prototype enabling artists to co-create securely, ensuring transparent revenue distribution.
