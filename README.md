@@ -1,5 +1,7 @@
 ##Demo: https://www.youtube.com/watch?v=Ql54Ty9i4lw&t=28s
 
+**https://devfolio.co/projects/mosaic-eb72**
+
 Mosaic — Decentralized Creative Collaboration Platform
 
 Problem Statement: Artists often struggle with credit, copyright, and fair revenue sharing in collaborations.
